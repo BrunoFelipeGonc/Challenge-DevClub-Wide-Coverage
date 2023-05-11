@@ -20,7 +20,7 @@
  <h2>Seen by Computer:</h2>
       <br>
       <br>
-   <img src=">
+   <img src="https://github.com/BrunoFelipeGonc/Desfio-DevClub---Responsive-Mobile-and-Computer/blob/master/Computer%20-%20wide-coverage-location.PNG?raw=true">
  <h2>Seen by Mobile:</h2>
        <br>
        <br>
